@@ -1,0 +1,13 @@
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.csprojAssemblyReference.cache
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.AssemblyInfoInputs.cache
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.AssemblyInfo.cs
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.csproj.CoreCompileInputs.cache
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.exe
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.deps.json
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.runtimeconfig.json
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.runtimeconfig.dev.json
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.dll
+D:\git\RefAndOut\RefVeOut\bin\Debug\netcoreapp3.1\RefVeOut.pdb
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.dll
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.pdb
+D:\git\RefAndOut\RefVeOut\obj\Debug\netcoreapp3.1\RefVeOut.genruntimeconfig.cache
